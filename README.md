@@ -1,5 +1,3 @@
-Elbette! İşte tüm içeriği tek bir yazı halinde, düzgün biçimlendirilmiş bir `README.md` formatında:
-
 ---
 
 # Banka Yönetim Sistemi (BM)
